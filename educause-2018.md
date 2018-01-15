@@ -1,32 +1,32 @@
 # EDUCAUSE 2018 Proposal
 ### Proposal Types
 * Preconference Workshop (full or half day offered the Tuesday before the conference)
-* *Breakout Session (offered Wednesday through Friday during the conference)*
+* **Breakout Session (offered Wednesday through Friday during the conference)**
 
 ### Lead Presenter Information
-* First Name Michael
-* Last Name Greene
-* Title Head, Learning Technology Services and Strategy
-* Organization Duke Learning Innovation
-* Address Duke University Libraries
-* City Durham
-* State NC
-* Zip 27708-0001
-* Country UNITED STATES
-* Phone (919) 681-1886
-* Organizational Email michael.greene@duke.edu
+* First Name - Michael
+* Last Name - Greene
+* Title - Head, Learning Technology Services and Strategy
+* Organization - Duke Learning Innovation
+* Address  -Duke University Libraries
+* City - Durham
+* State - NC
+* Zip - 27708-0001
+* Country - UNITED STATES
+* Phone - (919) 681-1886
+* Organizational Email - michael.greene@duke.edu
 
 ### Co-Presenter 1
-* First Name Lauren
-* Last Name Hirsh
-* Email lauren.hirsh@duke.edu
-* Company Duke Web Services
+* First Name - Lauren
+* Last Name - Hirsh
+* Email - lauren.hirsh@duke.edu
+* Company - Duke Web Services
 
 ### Co-Presenter 2
-* First Name Bryan
-* Last Name Ollendyke
-* Email bto108@psu.edu
-* Company Penn State Office of Digital Learning
+* First Name - Bryan
+* Last Name - Ollendyke
+* Email - bto108@psu.edu
+* Company - Penn State Office of Digital Learning
 
 ### Session Title
 Max Words: 10 Building a student-first NGDLE that embraces faculty and department choice.
@@ -49,7 +49,7 @@ Max Words: 50 In fewer than 50 words, state what you will cover during your sess
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
 
 ### Session Track
-* *Exploring Innovation in Teaching and Learning*
+* **Exploring Innovation in Teaching and Learning**
 * Creating a Culture of Data-Informed Decision Making
 * Leading and Partnering Across the Institution
 * Evolving Infrastructure and Enterprise IT
@@ -69,13 +69,13 @@ Max Words: 300 Briefly describe the specific activities you will use to support 
 * Panel Presentation (Maximum of four presenters, including moderator)
 * Single presenter (Typically 30 minutes)
 * Multi presenter (Same institution- Maximum of four presenters, including moderator – Typically 60 minutes)
-* *Multi presenter (different institutions – Maximum of four presenters, including moderator – Typically 60 minutes)*
+* **Multi presenter (different institutions – Maximum of four presenters, including moderator – Typically 60 minutes)**
 * Poster (60 minutes – Maximum of three presenters)
 * Workshop (Maximum of four presenters - Typically 90 minutes)
 
 ### Session Length
 * 30-minute session
-* *60-minute session*
+* **60-minute session**
 * 90-minute session
 * Half day (preconference workshop only)
 * Full day (preconference workshop only)
