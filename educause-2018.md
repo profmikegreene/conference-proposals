@@ -29,7 +29,9 @@
 * Company - Penn State Office of Digital Learning
 
 ### Session Title
-Max Words: 10 Building a student-first NGDLE that embraces faculty and department choice.
+Max Words: 10
+
+Building a student-first NGDLE that embraces faculty and department choice.
 
 
 ### Session Overview
@@ -38,11 +40,12 @@ Max Words: 50 In fewer than 50 words, state what you will cover during your sess
 
 ### Keywords
 1 to 5 keyword(s) which are most applicable to your session content.
-* Keyword 1 NGDLE
-* Keyword 2 User Experience (UX)
-* Keyword 3 Learning Technology
-* Keyword 4 App Store
-* Keyword 5 Open Source
+
+* Keyword 1 - NGDLE
+* Keyword 2 - User Experience (UX)
+* Keyword 3 - Learning Technology
+* Keyword 4 - App Store
+* Keyword 5 - Open Source
 
 
 ### Session Description
@@ -58,6 +61,7 @@ Max Words: 300 Briefly state the importance, relevance, value, and/or interest t
 
 ### Session Outcomes
 Max Words: 50 Your three session outcomes must clearly articulate what attendees will know or be able to do as a result of participating in the session. We encourage you to take some care in crafting these as these are important in the proposal evaluations. Outcomes must start with an action verb (i.e - understand, describe, identify, explain, etc.). Use the following format:
+
 1. Discuss resonating and differing interpretations of NGDLE.
 
 
@@ -83,7 +87,6 @@ Max Words: 300 Briefly describe the specific activities you will use to support 
 
 ### Diversity and Inclusion Content
 Max Words: 100 EDUCAUSE values diversity in perspective, opinion and representation. Our program committee strives to develop a program that represents our diverse community. How does your proposal reflect or address diversity and inclusion?
-
 
 
 ### Lead Presenter Qualifications
