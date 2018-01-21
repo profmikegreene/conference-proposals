@@ -34,6 +34,7 @@ https://events.educause.edu/annual-conference/call-for-proposals
 Max Words: 10
 
 Building a student-first NGDLE that embraces faculty and department choice.
+Sustainable innovation + faculty choice + student-centered design = Our future
 
 
 ### Session Overview
@@ -45,7 +46,7 @@ Max Words: 50 In fewer than 50 words, state what you will cover during your sess
 
 * Keyword 1 - NGDLE
 * Keyword 2 - User Experience (UX)
-* Keyword 3 - Learning Technology
+* Keyword 3 - LRNWebComponents
 * Keyword 4 - App Store
 * Keyword 5 - Open Source
 
@@ -53,17 +54,29 @@ Max Words: 50 In fewer than 50 words, state what you will cover during your sess
 ### Session Description
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
 
-1 faculty decides to use flash, that's a scale of 1. it's a poor choice but it works for them (sustainable) for a time. when they choose something different in 3 years, it's ok. while at the same time offering 10 other solutions at dept/school/uni.
+Two institutions with decentralized academic and IT cultures try solving the same problem, the same way, but from opposite ends. See how teams at Penn State and Duke University, fueled by open source technologies and standards, are building the future of learning technology for their communities. 
+
+Critical elements for success: 
+- embracing your university culture and building the right solution for it
+- lean methodology in user experience design and development
+- ecosystem level management of technologies, not just service level
+- Web Components, REST, and Learning Tools Interoperability, Grouper
+
+
+1 faculty decides to use technologyX, that's a scale of 1. it's a difficult choice for them as it means they have no support, but it is the best option for them and is sustainable for a time. On the first day of class, students are overwhelmed by the variety of tools and implementations in each of their courses.
+
+when the faculty choose something different in 3 years, it's ok. They understand their needs and can manage the change (Is this the story, or is it...). When it's time for them to change in 3 years, they can't find the time or don't have the expertise to manage the change.
+
+How can IT enable this type of environment, while providing a framework for support, ensuring data security and privacy, and all the while offering other competing solutions at the department, school, and university level?
 
 high level discussion about how this is structured, ~~web components are minimally mentioned~~.
+Holy crap, we can enable choice? We don't have to force users to use imperfect systems?
 
-the approach
+PSU starting at the content creation end. Duke starting at the student accessing content end. Faculty want to see what they can do in their courses. Students want to see what's going on in their courses. IT wants to run stable systems for the majority of users. Faculty and departments want to choose what technologies best fit their needs. 
 
-* lean
-* ux driven
-* 
+Faculty don't just use their content in the context of their single course at your uni. Sometimes they adjunct at 4 different schools. Sometimes they give talks on the content. Sometimes they just want to share what they're passionate about on their website. Enable that, make it so easy for them to do what they want with what they create.
 
-
+More technical or concepts, inspiration, vision?
 
 ### Session Track
 * **Exploring Innovation in Teaching and Learning**
@@ -76,10 +89,9 @@ the approach
 ### Session Outcomes
 Max Words: 50 Your three session outcomes must clearly articulate what attendees will know or be able to do as a result of participating in the session. We encourage you to take some care in crafting these as these are important in the proposal evaluations. Outcomes must start with an action verb (i.e - understand, describe, identify, explain, etc.). Use the following format:
 
-1. Explain differing interpretations of NGDLE and how each connects to academic and technical culture on their campus.
-2. How to embrace choice at the uni/school/faculty level without killing your students
-3. Sustainable innovation at scale
-4. 
+1. Explain differing interpretations of NGDLE and the role campus academic and IT culture plays in defining and realizing NGDLE.
+2. How NGDLE can enable choice at the university, school, and faculty levels while providing a better experience for students.
+3. How NGDLE can enable sustainable innovation at scale.
 
 
 ### Session Participant Engagement Strategies
@@ -109,6 +121,7 @@ Max Words: 100 EDUCAUSE values diversity in perspective, opinion and representat
 * universal design
 * users choose the tech that works for their brain, needs, classroom, students, content to be learned
 * everyone can get to the information they need when they need it. that's inclusion.
+* every classroom gets the technology it needs. It can't always be a single enterprise system, learning is a more diverse adventure for students.
 
 
 ### Lead Presenter Qualifications
