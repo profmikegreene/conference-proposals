@@ -54,13 +54,13 @@ Max Words: 50 In fewer than 50 words, state what you will cover during your sess
 ### Session Description
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
 
-Two institutions with decentralized academic and IT cultures try solving the same problem, the same way, but from opposite ends. See how teams at Penn State and Duke University, fueled by open source technologies and standards, are building the future of learning technology for their communities. 
+Come hear how teams at Penn State and Duke University, institutions sharing decentralized academic and IT cultures are building the future of learning technology. Fueled by open source technologies and standards, we're embracing users desire to choose their technology and pedagogy in a sustainable, supportable learning technology ecosystem.   
 
 Critical elements for success: 
 - embracing your university culture and building the right solution for it
 - lean methodology in user experience design and development
 - ecosystem level management of technologies, not just service level
-- Web Components, REST, and Learning Tools Interoperability, Grouper
+- open technologies: web components, REST, Learning Tools Interoperability, Grouper
 
 
 1 faculty decides to use technologyX, that's a scale of 1. it's a difficult choice for them as it means they have no support, but it is the best option for them and is sustainable for a time. On the first day of class, students are overwhelmed by the variety of tools and implementations in each of their courses.
