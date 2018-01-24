@@ -10,13 +10,13 @@ Below is the 4-minute lightning talk on [learn.duke](https://github.com/dukelear
 
 I lead our learning technology services team which supports, operates, and strategizes various edtech at Duke. We partner for development. I focus on ecosystem-level strategy across all edtech services.
 
-![Duke Learning Technology Ecosystem](_assets/Services.png)
+![Duke Learning Technology Ecosystem](_assets/dukelte.png)
 
 At Duke, our IT and academic culture is I’m sure similar to many of your institutions, one of technological plurality and choice, not a single, forced enterprise option.
 
 For example, lecture and seminars make up 40% of courses at Duke, 70% of which create a Sakai site. Out of the remaining 60% of courses, like independent study or clinical, only 15% create Sakai sites. And of course, there is high variance across disciplines in each of those segments.
 
-![Courses by type Fall 17](_assets/eli18coursesbytypef17.png)
+![Courses by type Fall 17](_assets/dukecoursesbytypef17.png)
 
 We’re embracing that pluralistic culture, and designing an interoperable learning community hub called learn.duke. Powered by open source technologies and standards, the primary project goals may sound familiar:
 
