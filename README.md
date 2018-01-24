@@ -2,13 +2,14 @@
 
 Open, collaborative conference proposals. Reach out if you'd like to give one together.
 
-Use master branch for proposals that are complete.
+Use /drafts for works in progress.  
+Use /submitted for proposals that have been sent to the conference.  
+Use /accepted for proposals the conference has put on the agenda.
 
-Use working branch as an authoritative branch of stuff in progress.
 
-Create new branches as necessary for work to merge into working or master.
+Create new branches as necessary for work to merge into master.
 
 Accepted proposals
 
-* [EDUCAUSE ELI 18](eli-18.md)
+* [EDUCAUSE ELI 18](accepted/eli-18.md)
 
