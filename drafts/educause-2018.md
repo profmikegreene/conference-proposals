@@ -33,21 +33,21 @@ https://events.educause.edu/annual-conference/call-for-proposals
 ### Session Title
 Max Words: 10
 
-* Building a student-first NGDLE that embraces faculty and department choice.
-* Sustainable innovation + faculty choice + student-centered design = Our future
+- **Sustainable innovation + faculty choice + student-centered design = NGDLE futures**
+- Building a student-first NGDLE that embraces faculty and department choice.
 
 
 ### Session Overview
 Max Words: 50 In fewer than 50 words, state what you will cover during your session. If accepted, this abstract will appear in the program. Please be concise, accurate, and clear.
 
-Come hear how teams at Penn State and Duke University, institutions sharing decentralized academic and IT cultures are building the future of learning technology. Fueled by open source technologies and standards, we're embracing users desire to choose their technology and pedagogy in a sustainable, supportable learning technology ecosystem.
+Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy to inform and shape technology selection in sustainably implemented ecosystems.
 
 ### Keywords
 1 to 5 keyword(s) which are most applicable to your session content.
 
 * Keyword 1 - NGDLE
 * Keyword 2 - User Experience (UX)
-* Keyword 3 - LRNWebComponents
+* Keyword 3 - Webcomponents
 * Keyword 4 - App Store
 * Keyword 5 - Open Source
 
@@ -55,21 +55,19 @@ Come hear how teams at Penn State and Duke University, institutions sharing dece
 ### Session Description
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
 
-Come hear how teams at Penn State and Duke University, institutions sharing decentralized academic and IT cultures are building the future of learning technology. Fueled by open source technologies and standards, we're embracing users desire to choose their technology and pedagogy in a sustainable, supportable learning technology ecosystem.   
+Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy to inform and shape technology selection in sustainably implemented ecosystems.
 
 Critical elements for success with similar initiatives: 
 - embracing your university culture and building the right solution for it
 - lean methodology in user experience design and development
 - ecosystem level management of technologies, not just service level
-- open technologies: web components, REST, Learning Tools Interoperability, Grouper
+- open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
 
-
-We all have those faculty who decide to use new, shiny technologyX. It can often be a poor and difficult choice for them as it means they have no support, but it is the best option for them and is sustainable for a time as it is a scale of 1. 
+We all have those faculty who decide to use new, shiny TechnologyX. It can often be a poor and difficult choice for them as it means they have no support, but it is the best option for them and is sustainable for a time as it is a scale of 1. Instead of viewing this as a negative, how can we embrace, enhance and support their desire for control over the learning ecosystem? How do we embrace these solutions but do so in a FERPA compliant and accessible way without overwhelming IT staffs or students needing to understand multiple platforms?
 
 Bryan/Lauren, what narrative is where this should go?
 
-1. When the faculty choose something different in 3 years, it's ok. They understand their needs and can manage the change. 
-1. When it's time for them to change in 3 years, they can't find the time or don't have the expertise to manage the change.
+When it's time for them to change in 3 years, they can't find the time or don't have the expertise to manage the change.
 
 For students, it's a different story. They have 4-6 faculty all doing something different and are overwhelmed by the variety of tools and implementations in each of their courses.
 
@@ -91,14 +89,18 @@ Faculty don't just use their content in the context of their single course at yo
 Max Words: 50 Your three session outcomes must clearly articulate what attendees will know or be able to do as a result of participating in the session. We encourage you to take some care in crafting these as these are important in the proposal evaluations. Outcomes must start with an action verb (i.e - understand, describe, identify, explain, etc.). Use the following format:
 
 1. Explain differing interpretations of NGDLE and the role campus academic and IT culture plays in defining and realizing NGDLE.
-2. How NGDLE can enable choice at the university, school, and faculty levels while providing a better experience for students.
-3. How NGDLE can enable sustainable innovation at scale.
+2. Understand how NGDLE can enable choice at the university, school, and faculty levels while providing a better experience for students.
+3. Describe strategies for enabling sustainable innovation at scale.
 
 
 ### Session Participant Engagement Strategies
 Max Words: 300 Briefly describe the specific activities you will use to support active participation. Accepted proposals must include engaging content delivery and participant interaction. Presenters are encouraged to move beyond static PowerPoint slides, avoid "talking heads" to more interactive discussion and innovative ways for participants to learn from one another and contribute shared knowledge.
 
-The last 20 minutes of the session will be entirely discussion-based. We will lead a discussion where attendees can share how they are interpreting and applying NGDLE concepts at their schools and what local contexts are most important for accomplishing NGDLE projects. 
+This session will be discussing NGDLE from two different sides of the relationship. Duke sees a sea of options and is envisioning how we bring it all together for students in a single interface for locating, a map of sorts. Penn State has developed technology solutions and user experience considerations for helping bridge this in real world courses that are utilizing it's NGDLE.
+
+Penn State is developing a powerful, decentralized authoring solution known as HAX which helps make our vision of NGDLE possible. This tool is open source and publicly available and we will encourage participants to play with the technology during the session and envision what kinds of course experiences they could build if this solution were part of their current technology landscape. 
+
+The last 20 minutes of the session will be discussion-based. We will lead a discussion where attendees can share how they are interpreting and applying NGDLE concepts at their schools and what local contexts are most important for accomplishing NGDLE projects. We will then see how these concepts could have its learner experiences enhanced with the tools and concepts presented throughout.
 
 Q&A on our projects will be accepted but we hope to steer the conversation towards the similarities and differences between school's interpretation and application of NGDLE concepts as well as the relationships and partnerships needed to bring NGDLE into practice at a university.
 
@@ -139,4 +141,4 @@ Max Words: 300 Provide a brief bio for each presenter (maximum of 3) covering th
 
 Lauren...
 
-Bryan...
+Bryan leads the NGDLE efforts of Penn State under the banner of a technology platform called ELMS: Learning Network (ELMSLN). ELMSLN is in use by multiple colleges at Penn State and is spreading to other organizations looking for sustainable ways beyond the LMS. Bryan has been talking NGDLE and the empowerment of decentralized solutions for 6 years and has contributed millions of lines of code back to the Webcomponent, PHP and educational technology communities. Bryan has presented at multiple national events including Open Ed, DrupalCon (2x), Educause ELI, Campus Technology (3x), SLOAN, and Open Apereo (2x).
