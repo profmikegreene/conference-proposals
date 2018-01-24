@@ -1,4 +1,5 @@
 #EDUCAUSE ELI 18
+
 This presentation was submitted with colleague Seth Anderson and we each spoke on a project related to [NGDLE](http://ngdle.org) concepts.
 
 We were paired with a group of 4 other presenters and the 6 of us split our time evenly. So, here's the 4-minute lightning talk on [learn.duke](https://github.com/dukelearninginnovation/learn.duke)
