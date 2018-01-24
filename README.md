@@ -1,5 +1,6 @@
 # conference-proposals
-Open, collaborative conference proposals. Reach out if you’d like to give one together.
+
+Open, collaborative conference proposals. Reach out if you'd like to give one together.
 
 Use master branch for proposals that are complete.
 
@@ -10,3 +11,4 @@ Create new branches as necessary for work to merge into working or master.
 Accepted proposals
 
 * [EDUCAUSE ELI 18](eli-18.md)
+
