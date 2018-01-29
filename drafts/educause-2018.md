@@ -55,11 +55,11 @@ Max Words: 300 Briefly state the importance, relevance, value, and/or interest t
 
 Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy to inform and shape technology selection in sustainably implemented ecosystems.
  
- -Critical elements for success with similar initiatives: 
- -- embracing your university culture and building the right solution for it
- -- lean methodology in user experience design and development
- -- ecosystem level management of technologies, not just service level
- -- open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
+Together, we'll explore some critical elements for success with similar initiatives: 
+* embracing your university culture and building the right solution for it
+* lean methodology in user experience design and development
+* ecosystem level management of technologies, not just service level
+* open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
 
 We all have those faculty who decide to use new, shiny TechnologyX. It can often be a poor and difficult choice for them as it means they have no support, but it is the best option for them and is sustainable for a time as it is a scale of 1. Instead of viewing this as a negative, how can we embrace, enhance and support their desire for control over the learning ecosystem? How do we embrace these solutions but do so in a FERPA compliant and accessible way without overwhelming IT staffs or students needing to understand multiple platforms?
 
