@@ -53,6 +53,27 @@ Hear how teams at Penn State University and Duke University, institutions sharin
 ### Session Description
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
 
+Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy to inform and shape technology selection in sustainably implemented ecosystems.
+ 
+ -Critical elements for success with similar initiatives: 
+ -- embracing your university culture and building the right solution for it
+ -- lean methodology in user experience design and development
+ -- ecosystem level management of technologies, not just service level
+ -- open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
+
+We all have those faculty who decide to use new, shiny TechnologyX. It can often be a poor and difficult choice for them as it means they have no support, but it is the best option for them and is sustainable for a time as it is a scale of 1. Instead of viewing this as a negative, how can we embrace, enhance and support their desire for control over the learning ecosystem? How do we embrace these solutions but do so in a FERPA compliant and accessible way without overwhelming IT staffs or students needing to understand multiple platforms?
+
+ -Bryan/Lauren, what narrative is where this should go?
+
+When it's time for them to change in 3 years, they can't find the time or don't have the expertise to manage the change.
+
+For students, it's a different story. They have 4-6 faculty all doing something different and are overwhelmed by the variety of tools and implementations in each of their courses.
+
+How can IT embrace faculty choice, while providing a framework for support, ensuring data security and privacy, and all the while offering other competing solutions at the department, school, and university level?
+
+This reality exists on both of our campuses. PSU is trying to solve it from the content creation end, Duke starting at the student access content end. Faculty want to see what they can do in their courses. Students want to see what's going on in their courses. IT wants to run stable systems for the majority of users. Faculty and departments want to choose what technologies best fit their needs. 
+
+Faculty don't just use their content in the context of their single course at your uni. Sometimes they adjunct at 4 different schools. Sometimes they give talks on the content. Sometimes they just want to share what they're passionate about on their website. Enable that, make it so easy for them to do what they want with what they create.
 
 ### Session Track
 * **Exploring Innovation in Teaching and Learning**
