@@ -75,6 +75,20 @@ This reality exists on both of our campuses. PSU is trying to solve it from the 
 
 Faculty don't just use their content in the context of their single course at your uni. Sometimes they adjunct at 4 different schools. Sometimes they give talks on the content. Sometimes they just want to share what they're passionate about on their website. Enable that, make it so easy for them to do what they want with what they create.
 
+### Session Description Rewritten (under 300 words)
+
+Sometimes faculty decide to use a new and/or unsupported learning technology. Despite the lack of IT support, it may be the best choice for their particular course content and pedagogy. Students frequently have a different perspective - in a given semester they might have four or more different courses where each faculty member has introduced a different platform or has implemented some of the same tools differently. Students can often be overwhelmed by the disparate technology tools they must use and manage. IT staff have yet another perspective - while they may embrace innovation, they are challenged by the work neeeded to support the existing and official solutions their organizations use, and it becomes difficult to scale the evaluation and integration of new and emerging tools while ensuring data security, FERPA compliance, and accessibility.
+
+How do we embrace new solutions but do so in a secure, FERPA compliant and accessible way without overwhelming IT staffs or students needing to understand multiple platforms? How can IT embrace faculty choice while offering other solutions at the department, school, and university level? 
+
+Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are both embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems. 
+ 
+In this session, you'll explore some critical elements for success of similar initiatives: 
+* embracing your university culture and building the right solution for it
+* lean methodology in user experience design and development
+* ecosystem level management of technologies, not just service level
+* open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
+
 ### Session Track
 * **Exploring Innovation in Teaching and Learning**
 * Creating a Culture of Data-Informed Decision Making
