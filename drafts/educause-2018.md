@@ -30,6 +30,12 @@ https://events.educause.edu/annual-conference/call-for-proposals
 * Email - bto108@psu.edu
 * Company - Penn State Office of Digital Learning
 
+### Co-Presenter 2
+* First Name - Matthew
+* Last Name - Gunkel
+* Email - mgunkel@iu.edu
+* Company - Indiana University - Director of Teaching and Learning Technology
+
 ### Session Title
 Max Words: 10
 
@@ -38,7 +44,7 @@ Max Words: 10
 ### Session Overview
 Max Words: 50 In fewer than 50 words, state what you will cover during your session. If accepted, this abstract will appear in the program. Please be concise, accurate, and clear.
 
-Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
+Hear how teams at Penn State University, Duke University, and Indiana University are sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
 
 ### Keywords
 1 to 5 keyword(s) which are most applicable to your session content.
@@ -53,11 +59,11 @@ Hear how teams at Penn State University and Duke University, institutions sharin
 ### Session Description
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
 
-Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy to inform and shape technology selection in sustainably implemented ecosystems.
+Hear how teams at Penn State University, Duke University, and Indiana University are sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy to inform and shape technology selection in sustainably implemented ecosystems.
  
 Together, we'll explore some critical elements for success with similar initiatives: 
 * embracing your university culture and building the right solution for it
-* lean methodology in user experience design and development
+* lean yet integrated methodology in user experience design and development
 * ecosystem level management of technologies, not just service level
 * open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
 
@@ -71,7 +77,7 @@ For students, it's a different story. They have 4-6 faculty all doing something 
 
 How can IT embrace faculty choice, while providing a framework for support, ensuring data security and privacy, and all the while offering other competing solutions at the department, school, and university level?
 
-This reality exists on both of our campuses. PSU is trying to solve it from the content creation end, Duke starting at the student access content end. Faculty want to see what they can do in their courses. Students want to see what's going on in their courses. IT wants to run stable systems for the majority of users. Faculty and departments want to choose what technologies best fit their needs. 
+This reality exists on both of our campuses. PSU is trying to solve it from the content creation end, Duke starting at the student access content end and IU by building seamless experiences that push the boundaries of user experience. Faculty want to see what they can do in their courses. Students want to see what's going on in their courses. IT wants to run stable systems for the majority of users. Faculty and departments want to choose what technologies best fit their needs. 
 
 Faculty don't just use their content in the context of their single course at your uni. Sometimes they adjunct at 4 different schools. Sometimes they give talks on the content. Sometimes they just want to share what they're passionate about on their website. Enable that, make it so easy for them to do what they want with what they create.
 
@@ -81,11 +87,11 @@ Sometimes faculty decide to use a new and/or unsupported learning technology. De
 
 How do we embrace new solutions but do so in a secure, FERPA compliant and accessible way without overwhelming IT staffs or students needing to understand multiple platforms? How can IT embrace faculty choice while offering other solutions at the department, school, and university level? 
 
-Hear how teams at Penn State University and Duke University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are both embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems. 
+Hear how teams at Penn State University, Duke University, and Indiana University are sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are both embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems. 
  
 In this session, you'll explore some critical elements for success of similar initiatives: 
 * embracing your university culture and building the right solution for it
-* lean methodology in user experience design and development
+* lean integrated methodology in user experience design and development
 * ecosystem level management of technologies, not just service level
 * open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
 
@@ -152,3 +158,5 @@ Max Words: 300 Provide a brief bio for each presenter (maximum of 3) covering th
 As an Information Architect/UX Designer with Duke Web Services in the Office of Information Technology (OIT), Lauren designs websites for the Duke community. She collaborates with clients and her team to craft useful, usable and sustainable products aligned with business goals and end-user needs. Currently she is working with Duke Learning Innovation on a next generation digital learning environment. Lauren has a master’s in Instructional Technology and over 10 years of professional experience in higher ed. She has spoken at national, regional and local education and technology conferences on topics ranging from student access/success to UX research and usability testing.
 
 Bryan leads the NGDLE efforts of Penn State under the banner of a technology platform called ELMS: Learning Network (ELMSLN). ELMSLN is in use by multiple colleges at Penn State and is spreading to other organizations looking for sustainable ways beyond the LMS. Bryan has been talking NGDLE and the empowerment of decentralized solutions for 6 years and has contributed millions of lines of code back to the Webcomponent, PHP and educational technology communities. Bryan has presented at multiple national events including Open Ed, DrupalCon (2x), Educause ELI, Campus Technology (3x), SLOAN, and Open Apereo (2x).
+
+Matthew is the Director of Teaching and Learning Technology at Indiana Unveristy and drives the creation, development and intregration for the systems that drive and deliver digital education as part of IU Online. With over a decade of experience in develping robost integrated solutions that work to truely transform the user experience in higher education. Matthew has a Masters in Information Systems and has given talks at Educuase, IMS Global, Instructure, Unizin, OLC, and many others. 
