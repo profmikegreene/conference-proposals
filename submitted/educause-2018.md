@@ -39,7 +39,7 @@ https://events.educause.edu/annual-conference/call-for-proposals
 ### Session Title
 Max Words: 10
 
-- **Sustainable innovation + faculty choice + student-centered design = NGDLE futures**
+Sustainable Innovation + Faculty Choice + Student-Centered Design = NGDLE
 
 ### Session Overview
 Max Words: 50 In fewer than 50 words, state what you will cover during your session. If accepted, this abstract will appear in the program. Please be concise, accurate, and clear.
@@ -58,48 +58,28 @@ Hear how teams at Penn State, Duke, and Indiana University, institutions sharing
 
 ### Session Description
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
-
-Hear how teams at Penn State, Duke, and Indiana University - institutions sharing decentralized academic and IT cultures - are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
- 
-Together, we'll explore some critical elements for success with similar initiatives: 
-* embracing your university culture and building the right solution for it
-* lean yet integrated methodology in user experience design and development
-* ecosystem level management of technologies, not just service level
-* open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
-
-We all have those faculty who decide to use new, shiny TechnologyX. It can often be a poor and difficult choice for them as it means they have no support, but it is the best option for them and is sustainable for a time as it is a scale of 1. Instead of viewing this as a negative, how can we embrace, enhance and support their desire for control over the learning ecosystem? How do we embrace these solutions but do so in a FERPA compliant and accessible way without overwhelming IT staffs or students needing to understand multiple platforms?
-
- -Bryan/Lauren, what narrative is where this should go?
-
-When it's time for them to change in 3 years, they can't find the time or don't have the expertise to manage the change.
-
-For students, it's a different story. They have 4-6 faculty all doing something different and are overwhelmed by the variety of tools and implementations in each of their courses.
-
-How can IT embrace faculty choice, while providing a framework for support, ensuring data security and privacy, and all the while offering other competing solutions at the department, school, and university level?
-
-This reality exists on both of our campuses. PSU is trying to solve it from the content creation end, Duke starting at the student access content end and IU by building seamless experiences that push the boundaries of user experience. Faculty want to see what they can do in their courses. Students want to see what's going on in their courses. IT wants to run stable systems for the majority of users. Faculty and departments want to choose what technologies best fit their needs. 
-
-Faculty don't just use their content in the context of their single course at your uni. Sometimes they adjunct at 4 different schools. Sometimes they give talks on the content. Sometimes they just want to share what they're passionate about on their website. Enable that, make it so easy for them to do what they want with what they create.
-
-### Session Description Rewritten (under 300 words)
-
 We all have faculty who decide to use new and/or unsupported learning technologies. Despite the lack of IT support, it may be the best choice for their particular course content and pedagogy. Students, however, are often overwhelmed by the disparate technology tools they must use and manage. In any given semester, students might have four or more different courses where each faculty member has introduced a different platform or has implemented some of the same tools differently.  IT staff have yet another perspective - while they may embrace innovation, they are challenged by the work needed to support the existing and official solutions their organizations use, and it becomes difficult to scale the evaluation and integration of new and emerging tools while ensuring data security, FERPA compliance, and accessibility.
 
-How do we embrace new solutions but do so in a secure, FERPA compliant and accessible way without overwhelming IT staffs or students? How can IT embrace faculty choice while offering other solutions at the department, school, and university level? 
+How do we embrace new solutions but do so in a secure, FERPA compliant, and accessible way without overwhelming IT staffs or students? How can IT embrace faculty choice while offering other solutions at the department, school, and university level? 
 
 Hear how teams at Penn State, Duke, and Indiana University - institutions sharing decentralized academic and IT cultures - are working on building their next generation digital learning environments (NGDLEs). Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
  
-In this session, you'll explore some critical elements for success of similar initiatives: 
-* embracing your university culture and building the right solution for it
-* lean integrated methodology in user experience design and development
-* ecosystem level management of technologies, not just service level
-* open technologies: webcomponents, REST, Learning Tools Interoperability, Grouper
+In this session, you'll explore some critical elements for the success of similar initiatives: 
+* embrace your university culture and build the right solution for it
+* integrate lean methodology in user experience design and development
+* develop ecosystem-level management of technologies, not just service level
+* open technologies: webcomponents, REST, Learning Tools Interoperability (LTI), Grouper
 
 ### Session Track
-* **Exploring Innovation in Teaching and Learning**
+**Exploring Innovation in Teaching and Learning**
+
+How do institutional IT practices enable and empower the core academic mission of teaching, learning, research, and scholarship? These practices include instructional design, digital learning, learning space design, research computing, online and blended learning, accessibility and universal design, and mobile learning, as well as support for libraries, pedagogical research and scholarship.
+
+Other track options
+
 * Creating a Culture of Data-Informed Decision Making
-* **Leading and Partnering Across the Institution**
-* **Evolving Infrastructure and Enterprise IT**
+* Leading and Partnering Across the Institution
+* Evolving Infrastructure and Enterprise IT
 * Managing and Reducing Information Technology Risk
 * Transforming the Student Experience
 
@@ -114,7 +94,7 @@ Max Words: 50 Your three session outcomes must clearly articulate what attendees
 ### Session Participant Engagement Strategies
 Max Words: 300 Briefly describe the specific activities you will use to support active participation. Accepted proposals must include engaging content delivery and participant interaction. Presenters are encouraged to move beyond static PowerPoint slides, avoid "talking heads" to more interactive discussion and innovative ways for participants to learn from one another and contribute shared knowledge.
 
-This session will be discussing NGDLE from two different sides of the relationship. Duke sees a sea of options and is envisioning how we bring it all together for students in a single interface for locating, a map of sorts. Penn State has developed technology solutions and user experience considerations for helping bridge this in real world courses that are utilizing it's NGDLE.
+This session will be discussing NGDLE from two different sides of the relationship. Duke sees a sea of options and is envisioning how we bring it all together for students in a single interface for locating, a map of sorts. Penn State has developed technology solutions and user experience considerations for helping bridge this in real-world courses that are utilizing its NGDLE.
 
 Penn State is developing a powerful, decentralized authoring solution known as HAX which helps make our vision of NGDLE possible. This tool is open source and publicly available, and we will encourage participants to play with the technology during the session and envision what kinds of course experiences they could build if this solution were part of their current technology landscape. 
 
@@ -150,7 +130,7 @@ What we are trying to build allows users to choose the tech that works for their
 ### Lead Presenter Qualifications
 Max Words: 100 Provide a brief bio for the lead presenter covering the scope of professional responsibilities, expertise on the topic, and previous experience presenting or facilitating sessions in the selected conference format.
 
-Michael leads the learning technology services and strategy team and Duke University. He focuses on edtech strategy across the ecosystem of tools offered to the Duke community and has 10 years of experience presenting and teaching in higher ed.
+Michael leads the learning technology services and strategy team at Duke University. The LTS team focuses on edtech strategy, operations, and support across the ecosystem of tools offered to the Duke community. Prior to moving to Duke, he held IT staff and Assistant Professor of IT roles in the Virginia Community College System, giving him diverse perspective and 10 years of experience presenting, teaching, developing, and deploying technology solutions in higher ed.
 
 ### Additional Presenter Qualifications
 Max Words: 300 Provide a brief bio for each presenter (maximum of 3) covering the scope of professional responsibilities, expertise on the topic, and previous experience presenting and facilitating. (100-word each limit per presenter)

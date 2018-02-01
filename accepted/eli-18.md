@@ -46,6 +46,8 @@ We’ve decided that it’s worth building this framework outside the LMS, lever
 
 Leaving learn.duke as a standard launchpad for students, regardless of what technology choices their faculty, departments, disciplines, schools, or the university make.
 
+![NGDLE Pencil](../assets/ngdlepencil.png)
+
 We are managing the project [openly on GitHub](https://github.com/dukelearninginnovation/learn.duke) and sharing via the GPLv3. If you can click a pencil icon, you can contribute, and we welcome anyone interested in discussing, designing, or developing the project.
 
 Thanks!
