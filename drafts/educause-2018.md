@@ -44,12 +44,12 @@ Max Words: 10
 ### Session Overview
 Max Words: 50 In fewer than 50 words, state what you will cover during your session. If accepted, this abstract will appear in the program. Please be concise, accurate, and clear.
 
-Hear how teams at Penn State University, Duke University, and Indiana University are sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
+Hear how teams at Penn State, Duke, and Indiana University - institutions sharing decentralized academic and IT cultures - are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
 
 ### Keywords
 1 to 5 keyword(s) which are most applicable to your session content.
 
-* Keyword 1 - NGDLE
+* Keyword 1 - Next Generation Digital Learning Environment (NGDLE)
 * Keyword 2 - User Experience (UX) Design
 * Keyword 3 - Webcomponents
 * Keyword 4 - App Store
@@ -59,7 +59,7 @@ Hear how teams at Penn State University, Duke University, and Indiana University
 ### Session Description
 Max Words: 300 Briefly state the importance, relevance, value, and/or interest to higher education IT.
 
-Hear how teams at Penn State University, Duke University, and Indiana University are sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy to inform and shape technology selection in sustainably implemented ecosystems.
+Hear how teams at Penn State, Duke, and Indiana University - institutions sharing decentralized academic and IT cultures - are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
  
 Together, we'll explore some critical elements for success with similar initiatives: 
 * embracing your university culture and building the right solution for it
@@ -83,11 +83,11 @@ Faculty don't just use their content in the context of their single course at yo
 
 ### Session Description Rewritten (under 300 words)
 
-Sometimes faculty decide to use a new and/or unsupported learning technology. Despite the lack of IT support, it may be the best choice for their particular course content and pedagogy. Students frequently have a different perspective - in a given semester they might have four or more different courses where each faculty member has introduced a different platform or has implemented some of the same tools differently. Students can often be overwhelmed by the disparate technology tools they must use and manage. IT staff have yet another perspective - while they may embrace innovation, they are challenged by the work neeeded to support the existing and official solutions their organizations use, and it becomes difficult to scale the evaluation and integration of new and emerging tools while ensuring data security, FERPA compliance, and accessibility.
+We all have faculty who decide to use new and/or unsupported learning technologies. Despite the lack of IT support, it may be the best choice for their particular course content and pedagogy. Students, however, are often overwhelmed by the disparate technology tools they must use and manage. In any given semester, students might have four or more different courses where each faculty member has introduced a different platform or has implemented some of the same tools differently.  IT staff have yet another perspective - while they may embrace innovation, they are challenged by the work needed to support the existing and official solutions their organizations use, and it becomes difficult to scale the evaluation and integration of new and emerging tools while ensuring data security, FERPA compliance, and accessibility.
 
-How do we embrace new solutions but do so in a secure, FERPA compliant and accessible way without overwhelming IT staffs or students needing to understand multiple platforms? How can IT embrace faculty choice while offering other solutions at the department, school, and university level? 
+How do we embrace new solutions but do so in a secure, FERPA compliant and accessible way without overwhelming IT staffs or students? How can IT embrace faculty choice while offering other solutions at the department, school, and university level? 
 
-Hear how teams at Penn State University, Duke University, and Indiana University are sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are both embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems. 
+Hear how teams at Penn State, Duke, and Indiana University - institutions sharing decentralized academic and IT cultures - are working on building their next generation digital learning environments (NGDLEs). Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
  
 In this session, you'll explore some critical elements for success of similar initiatives: 
 * embracing your university culture and building the right solution for it
