@@ -44,14 +44,14 @@ Max Words: 10
 ### Session Overview
 Max Words: 50 In fewer than 50 words, state what you will cover during your session. If accepted, this abstract will appear in the program. Please be concise, accurate, and clear.
 
-Hear how teams at Penn State, Duke, and Indiana University - institutions sharing decentralized academic and IT cultures - are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
+Hear how teams at Penn State, Duke, and Indiana University, institutions sharing decentralized academic and IT cultures, are building their learning technology ecosystems. Fueled by open source technology and standards, they are embracing user desires by allowing pedagogy and personalization to inform and shape technology selection in sustainably implemented ecosystems.
 
 ### Keywords
 1 to 5 keyword(s) which are most applicable to your session content.
 
 * Keyword 1 - Next Generation Digital Learning Environment (NGDLE)
 * Keyword 2 - User Experience (UX) Design
-* Keyword 3 - Webcomponents
+* Keyword 3 - Web Components
 * Keyword 4 - App Store
 * Keyword 5 - Open Source
 
