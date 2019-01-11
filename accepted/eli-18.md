@@ -25,7 +25,7 @@ We’re embracing that pluralistic culture, and designing an interoperable learn
 * Allow faculty to manage the people in and tech of their learning communities.
 * Provide information on learning technology management and policies.
 
-The LMS solved a lot of these problems, but how might we accomplish these goals for all the courses, including those that don’t use the LMS?
+The LMS solved a lot of these problems, but the technology landscape and what users do and expect from technology has changed. How might we accomplish these goals for all the courses, including those that don’t use the LMS?
 
 The [learn.duke project](https://github.com/dukelearninginnovation/learn.duke) takes a [lean approach to user experience, design, and development](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652). 
 
